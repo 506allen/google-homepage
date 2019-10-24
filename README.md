@@ -2,6 +2,8 @@ Allen Alvarado Gonzalez
 Oct 23, 2019
 The Odin Project 
 
+From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
+
 Purpose of this Small project
   Deconstruct an existing page (google.com)
   Rebuild the page using the browswer's developer tools
