@@ -20,3 +20,14 @@ figure {
     text-align: center;
 
 }
+.navbar {
+   padding-bottom: 200px;
+}
+
+.navbar li {
+   list-style-type: none;
+   display: inline;
+   border: 3px solid green;
+   position: relative;
+   left: 90%;
+}
